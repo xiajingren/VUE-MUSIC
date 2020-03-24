@@ -16,7 +16,7 @@
 
       <v-spacer></v-spacer>
 
-      <v-btn href="https://github.com/vuetifyjs/vuetify/releases/latest" target="_blank" text>
+      <v-btn href="https://github.com/xiajingren/VUE-MUSIC" target="_blank" text>
         <span class="mr-2">xiajingren</span>
         <v-icon>mdi-github</v-icon>
       </v-btn>
