@@ -1,4 +1,8 @@
 # vue-music
+![preview1.png](/src/assets/preview1.png)
+![preview2.png](/src/assets/preview2.png)
+![preview3.png](/src/assets/preview3.png)
+![preview4.gif](/src/assets/preview4.gif)
 
 ## Project setup
 ```
